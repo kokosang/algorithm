@@ -1,4 +1,4 @@
-package examples;
+package com.pingye.algorithm.examples;
 
 import java.util.Arrays;
 
